@@ -58,13 +58,13 @@ I'm a **Backend Developer** passionate about building reliable, high-performance
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vbv1407&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Vaibhav's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vbv1407&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800" alt="Vaibhav's GitHub Stats" width="48%"/>
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vbv1407&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=vbv1407&theme=dark&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbv1407&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbv1407&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" alt="Top Languages" width="40%"/>
 </p>
 
 ---
@@ -79,7 +79,13 @@ I'm a **Backend Developer** passionate about building reliable, high-performance
 
 <p align="center">
   <a href="https://www.geeksforgeeks.org/user/vbvrai1407" target="_blank">
-    <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=vbvrai1407&theme=dark" alt="GFG Stats" width="50%"/>
+    <img src="https://gfgstatscard.vercel.app/vbvrai1407" alt="GFG Stats" width="50%"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.codechef.com/users/vbvrai1407" target="_blank">
+    <img src="https://cp-logo.vercel.app/codechef/vbvrai1407" alt="CodeChef Rating" />
   </a>
 </p>
 
