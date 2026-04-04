@@ -79,11 +79,9 @@ I'm a **Backend Developer** passionate about building reliable, high-performance
 
 <p align="center">
   <a href="https://www.geeksforgeeks.org/user/vbvrai1407" target="_blank">
-    <img src="https://gfgstatscard.vercel.app/vbvrai1407" alt="GFG Stats" width="50%"/>
+    <img src="https://cp-logo.vercel.app/geeksforgeeks/vbvrai1407" alt="GeeksforGeeks Rating" />
   </a>
-</p>
-
-<p align="center">
+  &nbsp;
   <a href="https://www.codechef.com/users/vbvrai1407" target="_blank">
     <img src="https://cp-logo.vercel.app/codechef/vbvrai1407" alt="CodeChef Rating" />
   </a>
