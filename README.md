@@ -6,9 +6,9 @@
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/vbv1407?style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/vbv1407)
+[![GitHub followers](https://img.shields.io/github/followers/vbv0507?style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/vbv0507)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-rai-ab6b17270)
-![Profile Views](https://komarev.com/ghpvc/?username=vbv1407&style=for-the-badge&color=0891b2&labelColor=1c1917)
+![Profile Views](https://komarev.com/ghpvc/?username=vbv0507&style=for-the-badge&color=0891b2&labelColor=1c1917)
 
 </div>
 
@@ -72,10 +72,10 @@ vaibhav.sayHi();
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vbv1407&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vbv1407&theme=tokyonight&hide_border=true&background=0d1117&ring=00BFFF&fire=ff6e96&currStreakLabel=00BFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vbv0507&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&rank_icon=github" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vbv0507&theme=tokyonight&hide_border=true&background=0d1117&ring=00BFFF&fire=ff6e96&currStreakLabel=00BFFF" />
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbv1407&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00BFFF&text_color=c9d1d9&langs_count=8" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbv0507&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00BFFF&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
@@ -87,8 +87,8 @@ vaibhav.sayHi();
 
 | 🔬 Project | 📝 Description | 🛠️ Tech | 🔗 Links |
 |:---:|:---|:---:|:---:|
-| **🔗 URL Shortener** | Production-ready shortener with custom aliases, QR codes, click analytics, JWT auth & Azure deployment | `Node.js` `Express` `MongoDB` `Azure` | [GitHub](https://github.com/vbv1407/url-shortener) · [Live](https://urlzap.me/) |
-| **🏘️ Society Management System** | Full-stack multi-tenant platform for notice publishing, maintenance tracking & complaint management | `Node.js` `Express` `MongoDB` `CSS3` | [GitHub](https://github.com/vbv1407/society-management-system) · [Live](https://mysystem.live/) |
+| **🔗 URL Shortener** | Production-ready shortener with custom aliases, QR codes, click analytics, JWT auth & Azure deployment | `Node.js` `Express` `MongoDB` `Azure` | [GitHub](https://github.com/vbv0507/url-shortener) · [Live](https://urlzap.me/) |
+| **🏘️ Society Management System** | Full-stack multi-tenant platform for notice publishing, maintenance tracking & complaint management | `Node.js` `Express` `MongoDB` `CSS3` | [GitHub](https://github.com/vbv0507/society-management-system) · [Live](https://mysystem.live/) |
 
 </div>
 
@@ -142,7 +142,7 @@ vaibhav.sayHi();
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vbv1407&bg_color=0d1117&color=00BFFF&line=00BFFF&point=ff6e96&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vbv0507&bg_color=0d1117&color=00BFFF&line=00BFFF&point=ff6e96&area=true&hide_border=true)
 
 </div>
 
@@ -153,7 +153,7 @@ vaibhav.sayHi();
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-rai-ab6b17270)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vbv1407)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vbv0507)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vbvrai1407@gmail.com)
 
 </div>
