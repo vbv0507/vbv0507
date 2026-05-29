@@ -2,14 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=200&section=header&text=Vaibhav%20Rai&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Backend%20Developer%20%7C%20API%20Engineer%20%7C%20B.Tech%20IT&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&height=60&lines=Building+Production-Ready+REST+APIs+%F0%9F%9A%80;Node.js+%7C+MongoDB+%7C+Azure+%7C+Socket.io+%E2%98%81%EF%B8%8F;Backend+Developer+%26+Competitive+Programmer+%F0%9F%92%BB;600%2B+DSA+Problems+Solved+%7C+Top+16%25+LeetCode+%F0%9F%8F%86" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&height=60&lines=Building+Production-Ready+REST+APIs+%F0%9F%9A%80;Node.js+%7C+MongoDB+%7C+Azure+%7C+Socket.io+%E2%98%81%EF%B8%8F;Real-time+Systems+%7C+JWT+Auth+%7C+Cloud+Deployment+%F0%9F%94%90;Open+to+Backend+%26+SDE+Internships+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 
 <br/><br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/vbv0507?style=for-the-badge&color=0891b2&labelColor=1c1917&logo=github)](https://github.com/vbv0507)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-rai-ab6b17270)
 [![Email](https://img.shields.io/badge/Email-vbvrai1407-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vbvrai1407@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=vbv0507&style=for-the-badge&color=0891b2&labelColor=1c1917)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=vbv0507.vbv0507&style=for-the-badge&color=0891b2&labelColor=1c1917)
 
 </div>
 
@@ -40,8 +40,6 @@ vaibhav.sayHi();
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
 ### ⚙️ Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -70,8 +68,6 @@ vaibhav.sayHi();
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
 
 ---
 
