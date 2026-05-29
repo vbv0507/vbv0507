@@ -1,13 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=180&section=header&text=Vaibhav%20Rai&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%7C%20API%20Engineer%20%7C%20B.Tech%20IT&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=200&section=header&text=Vaibhav%20Rai&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Backend%20Developer%20%7C%20API%20Engineer%20%7C%20B.Tech%20IT&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=620&height=60&lines=Building+Production-Ready+REST+APIs+%F0%9F%9A%80;JWT+Auth+%7C+Node.js+%7C+MongoDB+%7C+Azure+%E2%98%81%EF%B8%8F;Backend+Developer+%26+Competitive+Programmer+%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&height=60&lines=Building+Production-Ready+REST+APIs+%F0%9F%9A%80;Node.js+%7C+MongoDB+%7C+Azure+%7C+Socket.io+%E2%98%81%EF%B8%8F;Backend+Developer+%26+Competitive+Programmer+%F0%9F%92%BB;600%2B+DSA+Problems+Solved+%7C+Top+16%25+LeetCode+%F0%9F%8F%86" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/vbv0507?style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/vbv0507)
+[![GitHub followers](https://img.shields.io/github/followers/vbv0507?style=for-the-badge&color=0891b2&labelColor=1c1917&logo=github)](https://github.com/vbv0507)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-rai-ab6b17270)
+[![Email](https://img.shields.io/badge/Email-vbvrai1407-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vbvrai1407@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=vbv0507&style=for-the-badge&color=0891b2&labelColor=1c1917)
 
 </div>
@@ -23,7 +24,7 @@ const vaibhav = {
   location:   "Vadodara, Gujarat, India 🇮🇳",
   university: "Parul University (2023 – 2027)",
   languages:  ["C++", "JavaScript (ES6+)", "Python"],
-  focus:      ["REST API Design", "JWT Auth", "Cloud Deployment", "DSA"],
+  focus:      ["REST API Design", "Real-time Systems", "Cloud Deployment", "DSA"],
   currentlyBuilding: "Scalable server-side apps with Node.js, Express & MongoDB",
   fun_fact:   "I debug in production and call it 'live testing' 😄",
 
@@ -39,14 +40,18 @@ vaibhav.sayHi();
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### ⚙️ Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -66,16 +71,22 @@ vaibhav.sayHi();
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+</div>
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vbv0507&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vbv0507&theme=tokyonight&hide_border=true&background=0d1117&ring=00BFFF&fire=ff6e96&currStreakLabel=00BFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vbv0507&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&rank_icon=github&cache_seconds=86400" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbv0507&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00BFFF&text_color=c9d1d9&langs_count=8&cache_seconds=86400" />
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbv0507&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00BFFF&text_color=c9d1d9&langs_count=8" />
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=vbv0507&theme=tokyonight&hide_border=true&background=0d1117&ring=00BFFF&fire=ff6e96&currStreakLabel=00BFFF&sideLabels=c9d1d9&dates=c9d1d9)](https://git.io/streak-stats)
 
 </div>
 
@@ -87,12 +98,13 @@ vaibhav.sayHi();
 
 | 🔬 Project | 📝 Description | 🛠️ Tech | 🔗 Links |
 |:---:|:---|:---:|:---:|
+| **📡 API Monitoring System** | Real-time API health monitoring with cron-based uptime checks, Socket.io live dashboard, incident alerting & Azure deployment | `Node.js` `Express` `Socket.io` `MongoDB` `Azure` | [GitHub](https://github.com/vbv0507/api-monitoring-system) · [Live](https://monitorly-ahcrd4h6bydndscw.centralindia-01.azurewebsites.net/) |
 | **🔗 URL Shortener** | Production-ready shortener with custom aliases, QR codes, click analytics, JWT auth & Azure deployment | `Node.js` `Express` `MongoDB` `Azure` | [GitHub](https://github.com/vbv0507/url-shortener) · [Live](https://urlzap.me/) |
 | **🏘️ Society Management System** | Full-stack multi-tenant platform for notice publishing, maintenance tracking & complaint management | `Node.js` `Express` `MongoDB` `CSS3` | [GitHub](https://github.com/vbv0507/society-management-system) · [Live](https://mysystem.live/) |
 
 </div>
 
-> 💡 *Both projects are live and deployed on Azure — check the links above!*
+> 💡 *All 3 projects are live and deployed on Azure — check the links above!*
 
 ---
 
@@ -134,6 +146,7 @@ vaibhav.sayHi();
 ⚡ Advanced MongoDB — Aggregation Pipelines & Indexing
 ☁️  Azure App Service, Static Web Apps & CI/CD with GitHub Actions
 🧠 DSA — Grinding toward LeetCode Top 10%
+🔌 WebSockets & Real-time Systems with Socket.io
 ```
 
 ---
@@ -142,7 +155,7 @@ vaibhav.sayHi();
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vbv0507&bg_color=0d1117&color=00BFFF&line=00BFFF&point=ff6e96&area=true&hide_border=true)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vbv0507&bg_color=0d1117&color=00BFFF&line=00BFFF&point=ff6e96&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -162,7 +175,7 @@ vaibhav.sayHi();
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=120&section=footer" width="100%"/>
 
 *⭐ If you find my projects useful, a star would mean a lot!*
 
