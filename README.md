@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=150&section=header&text=Vaibhav%20Rai&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=45" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=200&section=header&text=Vaibhav%20Rai&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Backend%20Developer%20%7C%20API%20Engineer%20%7C%20B.Tech%20IT&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=FFFFFF&center=true&vCenter=true&width=620&height=45&lines=Backend+Developer+%7C+API+Engineer+%7C+B.Tech+IT;Node.js+%7C+Express+%7C+MongoDB+%7C+Azure;REST+APIs+%7C+JWT+Auth+%7C+Socket.io;Open+to+SDE+%26+Backend+Internships+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Subtitle SVG" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&height=50&lines=Building+Production-Ready+REST+APIs+%F0%9F%9A%80;Real-time+Systems+%7C+Cloud+Deployment+%F0%9F%94%90;3+Live+Projects+Deployed+on+Azure+%E2%98%81%EF%B8%8F;Scalable+%7C+Secure+%7C+Fast+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&height=60&lines=Building+Production-Ready+REST+APIs+%F0%9F%9A%80;Node.js+%7C+MongoDB+%7C+Azure+%7C+Socket.io+%E2%98%81%EF%B8%8F;Real-time+Systems+%7C+JWT+Auth+%7C+Cloud+Deployment+%F0%9F%94%90;Open+to+Backend+%26+SDE+Internships+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 
 <br/><br/>
 
